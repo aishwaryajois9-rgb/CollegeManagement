@@ -3,3 +3,5 @@ Student Name: Aishwarya S Jois
 Roll Number: 05
 Department: CSE
 Semester: 5
+Attendance: 85%
+Result: PASS
